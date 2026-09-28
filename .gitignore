@@ -1,0 +1,14 @@
+# Build outputs
+bin/
+dist/
+
+# Machine data
+*-data/
+
+# Editor / OS
+*.swp
+Thumbs.db
+Desktop.ini
+
+# Node (shared frontend base, added later)
+node_modules/
